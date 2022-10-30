@@ -63,7 +63,7 @@ global.psaweria = 'GakAda!!' //Link Saweriamu Kalo Nggada Ketik - aja
 /*============== NOMOR ==============*/
 global.nomorbot = '6287840229797' //Nomor Bot
 global.nomorown = '6285242489614' //Nomor Owner
-global.namebot = 'IKYY-MULTIDEVICE'  //Nama Bot
+global.namebot = 'VENOM-MULTIDEVICE'  //Nama Bot
 global.nameown = 'YanceOffc'  // Nama Owner
 
 
