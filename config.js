@@ -57,19 +57,19 @@ global.snh = 'https://nhentai.net/g/HaramTod🗿' //Hmmm, Ini boleh kalian isi t
 
 /*============== PAYMENT ==============*/
 global.pdana = 'SqanKatalogBot' //Nomor Danamu
-global.ppulsa = '0895622436731' //Nomor SimCard Yang Kamu Pake
+global.ppulsa = '085242489614' //Nomor SimCard Yang Kamu Pake
 global.psaweria = 'GakAda!!' //Link Saweriamu Kalo Nggada Ketik - aja
 
 /*============== NOMOR ==============*/
-global.nomorbot = '6285877232897' //Nomor Bot
-global.nomorown = '62895622436731' //Nomor Owner
+global.nomorbot = '6287840229797' //Nomor Bot
+global.nomorown = '6285242489614' //Nomor Owner
 global.namebot = 'IKYY-MULTIDEVICE'  //Nama Bot
-global.nameown = 'Ikyy Offc'  // Nama Owner
+global.nameown = 'YanceOffc'  // Nama Owner
 
 
 /*============== STAFF ==============*/
 global.owner = [
-  ['62895622436731', 'Ikyy Ofc', true] //Ganti jd nomormu sama Namamu
+  ['6285242489614', 'YanceOfc', true] //Ganti jd nomormu sama Namamu
   // [number, dia creator/owner?, dia developer?]
 ] // Put your number here
 global.mods = [] // Want some help?
@@ -101,9 +101,9 @@ global.APIKeys = { // APIKey Here
 // Kata APIKEY itu isi dengan apikey lu sendiri, dengan beli ke website itu
 
 /*============== WATERMARK ==============*/
-global.wm = '                「 IKYY-MULTIDEVICE 汉  」' //Main Watermark
-global.wm2 = '꒷︶꒷꒥꒷ ‧₊˚ ꒰ฅ˘Ikyy-Md˘ฅ ꒱ ‧₊˚꒷︶꒷꒥꒷'
-global.wm3 = '⫹⫺  IKYY-MD'
+global.wm = '                「 Yance-MULTIDEVICE 汉  」' //Main Watermark
+global.wm2 = '꒷︶꒷꒥꒷ ‧₊˚ ꒰ฅ˘Venom-Md˘ฅ ꒱ ‧₊˚꒷︶꒷꒥꒷'
+global.wm3 = '⫹⫺  YANCE-MD'
 global.botdate = `⫹⫺ 𝗛𝗮𝗿𝗶: ${week} ${date}`
 global.bottime = `𝗪𝗮𝗸𝘁𝘂 : ${wktuwib}`
 global.titlebot = '🎋 ┊ 𝗥𝗣𝗚 ʙᴏᴛ ᴡʜᴀᴛsᴀᴘᴘ'
@@ -372,7 +372,7 @@ global.hsquere = ['⛶','❏','⫹⫺']
 global.stickpack = '.'
 global.stickauth = `☂︎\nO\nS\nC\nR\nO\nF\C-\n𝗕\n𝗢\n𝗧\n✦\n\n⫹⫺ Whatsapp BOT\nwa.me/${global.nomorbot}`
 global.packname = 'Cʀᴇᴀᴛᴇᴅ Bʏ'
-global.packname2 = 'ᴄʀᴇᴀᴛᴇᴅ ʙʏ IKYY'
+global.packname2 = 'ᴄʀᴇᴀᴛᴇᴅ ʙʏ YANCE'
 
 global.multiplier = 38 // The higher, The harder levelup
 
